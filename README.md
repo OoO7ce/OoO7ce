@@ -1,7 +1,7 @@
    <h2> 🙋Hey there! </h2>
 <div align="center">
 <!-- knock code pictures -->
-  <img align="center" src="[https://github.com/MrXiao7/MrXiao7/blob/main/coding.gif](https://lh3.googleusercontent.com/-iD8SZAU9rgc/AAAAAAAAAAI/AAAAAAAAAAA/ALKGfklVKpl7K8R66BPRn6w5U189fwAKUw/photo.jpg?sz=46)" /><br>
+  <img align="center" src="https://lh3.googleusercontent.com/-iD8SZAU9rgc/AAAAAAAAAAI/AAAAAAAAAAA/ALKGfklVKpl7K8R66BPRn6w5U189fwAKUw/photo.jpg" /><br>
 </div>
 </br>
   <div align="center">
@@ -35,7 +35,7 @@
 
 <h3>🛠 技术栈</h3>
 
-- 💻 &nbsp; 汇编 | Python | Lua
+- 💻 &nbsp; 汇编 | Python | Lua |
 - 🌐 &nbsp; 逆向工程 | web安全 |
 - 🔧 &nbsp; x64dbg | idapro |
 
