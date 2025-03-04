@@ -6,15 +6,6 @@
 </br>
   <div align="center">
 
-  <!-- dynamic typing effect 动态打字效果 -->
-  <div align="center">
-    <a href="">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=450&lines=春风若有怜花意，可否许我再少年。%3B&center=true&size=27" alt="Typing SVG" />
-    </a>
-  </div>
-
-
-
   <!-- profile logo 个人资料徽标 -->
   <!--
   <div align="center">
