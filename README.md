@@ -4,7 +4,13 @@
   <img align="center" src="https://lh3.googleusercontent.com/-iD8SZAU9rgc/AAAAAAAAAAI/AAAAAAAAAAA/ALKGfklVKpl7K8R66BPRn6w5U189fwAKUw/photo.jpg" /><br>
 </div>
 </br>
-  <div align="center">
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OoO7ce/OoO7ce/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/OoO7ce/OoO7ce/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/OoO7ce/OoO7ce/output/github-contribution-grid-snake.svg">
+</picture>
 
   <!-- profile logo 个人资料徽标 -->
   <!--
