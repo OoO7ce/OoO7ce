@@ -25,16 +25,8 @@
 
 <h3>🤯 About me</h3>
 
-- 🔭 &nbsp; 一只菜狗
 - 🤔 &nbsp; 某不知名安全研究员
-- 🎓 &nbsp; 正在学习逆向
 
-
-<h3>🛠 技术栈</h3>
-
-- 💻 &nbsp; 汇编 | Python | Lua |
-- 🌐 &nbsp; 逆向工程 | web安全 |
-- 🔧 &nbsp; x64dbg | idapro |
 
 
 <!-- <h3> 🤝🏻 Connect with Me </h3> -->
