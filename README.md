@@ -23,10 +23,6 @@
 
 </div>
 
-<h3>🤯 About me</h3>
-
-- 🤔 &nbsp; 某不知名安全研究员
-
 
 
 <!-- <h3> 🤝🏻 Connect with Me </h3> -->
